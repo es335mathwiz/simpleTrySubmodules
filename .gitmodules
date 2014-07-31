@@ -1,0 +1,3 @@
+[submodule "sympyAMA"]
+	path = sympyAMA
+	url = https://github.com/es335mathwiz/sympyAMA.git
